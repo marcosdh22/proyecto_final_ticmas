@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(161, 217, 240);
+    font-family: 'Inter', sans-serif;
+    color: rgb(22, 11, 119);
+    text-align: justify;
+    align-content: center;
+    align-items: center;
+    margin:auto;
+    justify-content: center;
+
+}
+
+.col-10{
+    border-left-style: solid; 
+    border-left-color:white; 
+    border-left-width: 5px;
+    border-bottom-style: solid; 
+    border-bottom-color:white; 
+    border-bottom-width: 1px;
+    padding: 50px 35px 50px 35px;
+}
+
+h2{
+    margin:auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h5{
+    margin-left: auto ; margin-right: auto ;
+}
+
+.estre{
+    margin:auto;
+    max-height:30px;
+}
+
+img{
+    margin-left: auto ; margin-right: auto ;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: center;
+    margin: 2px auto    2px auto ;
+}
